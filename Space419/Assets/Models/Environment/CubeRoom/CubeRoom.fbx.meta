@@ -1,9 +1,64 @@
 fileFormatVersion: 2
-guid: af1b3e8b5177d92419d5f87faf27db91
+guid: df91998795594e546acf052d5362621a
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BigStairFaces1
+    second: {fileID: 2100000, guid: 525e711aa002e3640b3d080a0dec987f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BigStairFaces2
+    second: {fileID: 2100000, guid: 525e711aa002e3640b3d080a0dec987f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BigStairSides
+    second: {fileID: 2100000, guid: c44a84e3f48b0644c99468fc68c6b8aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blocks
+    second: {fileID: 2100000, guid: c44a84e3f48b0644c99468fc68c6b8aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConcreteFinIndents
+    second: {fileID: 2100000, guid: c44a84e3f48b0644c99468fc68c6b8aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StairFaces1
+    second: {fileID: 2100000, guid: 525e711aa002e3640b3d080a0dec987f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StairFaces2
+    second: {fileID: 2100000, guid: 525e711aa002e3640b3d080a0dec987f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StairSides
+    second: {fileID: 2100000, guid: c44a84e3f48b0644c99468fc68c6b8aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tunnel
+    second: {fileID: 2100000, guid: 5daa057d5c5e833479bf85b48a4d1a42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls
+    second: {fileID: 2100000, guid: 5daa057d5c5e833479bf85b48a4d1a42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowSills
+    second: {fileID: 2100000, guid: c44a84e3f48b0644c99468fc68c6b8aa, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
