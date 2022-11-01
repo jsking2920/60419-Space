@@ -1425,9 +1425,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23d4aaeac39c747789d74c3582b961d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 5
-  mouseSensitivity: 5
-  jumpSpeed: 5
+  movementSpeed: 1
+  mouseSensitivity: 1
+  jumpSpeed: 4
   upDownRange: 60
 --- !u!1 &5380287161751848070
 GameObject:
