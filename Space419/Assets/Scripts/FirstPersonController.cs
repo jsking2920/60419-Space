@@ -21,6 +21,12 @@ public class FirstPersonController : MonoBehaviour
 
 	void Update () 
 	{
+		// Quit on Esc
+		if (Input.GetKeyDown(KeyCode.Escape))
+		{
+			Application.Quit();
+		}
+
 		// Rotation
 		float rotLeftRight = Input.GetAxis("Mouse X") * mouseSensitivity;
 		transform.Rotate(0, rotLeftRight, 0);
