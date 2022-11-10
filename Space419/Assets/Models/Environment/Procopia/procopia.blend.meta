@@ -17,6 +17,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: FoyerInvisWall
+    second: {fileID: 2100000, guid: b76cad6b867f6ce4f8212269059ae79b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: FoyerStairs
     second: {fileID: 2100000, guid: e1cd1dfa357ca734a9cbf632cad75de8, type: 2}
   - first:

@@ -1982,14 +1982,14 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.1
-  far clip plane: 20
+  far clip plane: 200
   field of view: 60
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 55
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
@@ -2121,13 +2121,13 @@ CharacterController:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Height: 2
-  m_Radius: 0.5
+  m_Height: 1.27
+  m_Radius: 0.15
   m_SlopeLimit: 45
   m_StepOffset: 0.3
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Center: {x: 0, y: 0.61, z: 0}
 --- !u!114 &8992344785962561813
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2140,10 +2140,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23d4aaeac39c747789d74c3582b961d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 1
+  movementSpeed: 2.3
   mouseSensitivity: 1.1
   jumpSpeed: 4
-  upDownRange: 60
+  upDownRange: 75
 --- !u!1 &9107473444812318000
 GameObject:
   m_ObjectHideFlags: 0
